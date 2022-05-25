@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AEABBD5D283DF2B5009550A4 /* video1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video1.mp4; sourceTree = "<group>"; };
 		AEFC701F283A983E00C51875 /* exercise79.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = exercise79.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEFC7022283A983E00C51875 /* exercise79App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = exercise79App.swift; sourceTree = "<group>"; };
 		AEFC7024283A983E00C51875 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				AEFC7029283A984500C51875 /* Preview Assets.xcassets */,
+				AEABBD5D283DF2B5009550A4 /* video1.mp4 */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
